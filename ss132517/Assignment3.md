@@ -1,1 +1,2 @@
 Silas
+Favorite color: Blue
