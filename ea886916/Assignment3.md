@@ -1,1 +1,1 @@
-Ekow Ampah favorite color is RED.
+Ekow's favorite color is RED.
