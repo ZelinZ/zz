@@ -1,4 +1,5 @@
-Herriott
-Pink
-3 Extra
 Garrett
+HEX-#FF0000
+Java
+C++
+Python
