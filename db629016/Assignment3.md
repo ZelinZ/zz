@@ -1,1 +1,4 @@
-Daniyar Baktybek Purple
+Daniyar Baktybek Purple 
+Today
+was
+sunny
